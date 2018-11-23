@@ -1,0 +1,17 @@
+commit 74ecc2be0e67dc5878ee528f4a31918eb7ce6f8b
+Author: root <root@server.localdomain>
+Date:   Sat Nov 24 00:13:39 2018 +0100
+
+    Representacion de todos los datos y comentado FINALIZADO
+
+commit 278518606f2771cb1f260ff54bbd0af80bd255b4
+Author: root <root@server.localdomain>
+Date:   Sat Nov 24 00:13:18 2018 +0100
+
+    Seleccion Mejor Jugador por posicion
+
+commit 43b59cc66becaf191f47335be110e18f2dfcafa7
+Author: root <root@server.localdomain>
+Date:   Sat Nov 24 00:12:41 2018 +0100
+
+    Grafico Jugadores de un equipo y posicion especifica
